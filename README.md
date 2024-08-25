@@ -1,7 +1,7 @@
 # Marvel
 
 **Hello there**
-**Before we start, make sure, that you read an instruction**
+**Before we start, make sure, that you read an instruction, and swap to master branch**
 
 **Technologies**<br/>
 React Js, SCSS, Marvel API
