@@ -7,6 +7,7 @@
 React Js, SCSS, Marvel API
 
 **Description**<br/>
+This webpage may look weird, because it build on Retina display. Sorry
 This web application is built using the React Js library , without hooks.
 This web application contains information about Marvel superheroes.
 You can study character information, get more characters, look at their images, get a list of comics in which they participated.
