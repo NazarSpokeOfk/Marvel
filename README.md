@@ -26,5 +26,4 @@ You may need to register your developer profile and replace this API key with yo
 3. you will need to create react-application, then go to the project directory in the terminal. See the instructions for creating in the first point. <br/>
 4. Then, run the web application, and start using it.
 
-https://github.com/user-attachments/assets/b798aa73-2ec0-466b-b42a-1c361d835411
 
