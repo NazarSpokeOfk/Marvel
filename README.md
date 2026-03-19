@@ -1,29 +1,51 @@
-# Marvel
+# 🦸‍♂️ Marvel 
 
-**Hello there**
-**Before we start, make sure, that you read an instruction, and swap to master branch**
+# ❗️ К сожалению, API Marvel больше не поддерживается
 
-**Technologies**<br/>
-- React Js
-- SCSS
+## **Суть проекта**
+
+Проект позволяет получать данные о супергероях из комиксов Marvel : изучать их лор и комиксы в которых они появлялись.
+
+## 🚀 **Основные функции:**
+
+* Поиск по имени героя
+* Изучение информации героя
+* Бесконечная лента супергероев
+* Изучение комиксов, в которых появился супергерой
+
+**🛠️ Технологии**<br/>
+
+- React
 - Marvel API
 
-**Description**<br/>
+**📒 Примечание**<br/>
 
-This webpage may look weird, because it build on Retina display. Sorry.
-This web application is built using the React Js library , without hooks.
-This web application contains information about Marvel superheroes.
-You can study character information, get more characters, look at their images, get a list of comics in which they participated.
-All received data comes from the Server, this means that the code is asynchronous.
-The API that is used in this web application is [API](https://developer.marvel.com/account).
-In the MarvelService component, in the MarvelService file, on line 4, a unique developer API key is used.
-You may need to register your developer profile and replace this API key with yours.
+Это веб-приложение создано с использованием React без хуков.
+Это веб-приложение содержит информацию о супергероях Marvel.
+Все получаемые данные поступают с сервера, что означает, что код является асинхронным.
+В этом веб-приложении используется API [API](https://developer.marvel.com/account).
+В компоненте MarvelService, в файле MarvelService, в строке 4 используется уникальный ключ API разработчика.
+Возможно, вам понадобится зарегистрировать свой профиль разработчика и заменить этот ключ API на свой.
 
-**Instructions**<br/>
+**📚 Инструкция**<br/>
 
-1. Make sure that you have the React library installed on your PC. Here is the full [instruction](https://create-react-app.dev/docs/getting-started/)<br/>
-2. make sure that you have the project hierarchy built correctly. Watch the video in this readme file. <br/>
-3. you will need to create react-application, then go to the project directory in the terminal. See the instructions for creating in the first point. <br/>
-4. Then, run the web application, and start using it.
+
+Просто скопируйте и используйте эти команды для установки и запуска приложения.
+
+```bash
+git clone -b master https://github.com/NazarSpokeOfk/Marvel
+cd Marvel/marvel
+npm i
+npm start
+```
+
+## 🪪 **Лицензия**
+
+Лицензия MIT - не стесняйтесь изучать или использовать этот код на свой страх и риск.
+
+
+## **Автор**
+
+**Spokeofk**
 
 
