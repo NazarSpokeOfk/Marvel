@@ -1,36 +1,36 @@
 # 🦸‍♂️ Marvel 
 
-# ❗️ К сожалению, API Marvel больше не поддерживается
+# ❗️ Unfortunately, the Marvel API is no longer supported
 
-## **Суть проекта**
+## **Project Overview**
 
-Проект позволяет получать данные о супергероях из комиксов Marvel : изучать их лор и комиксы в которых они появлялись.
+This project allows you to retrieve data on superheroes from Marvel comics: explore their lore and the comics in which they appear.
 
-## 🚀 **Основные функции:**
+## 🚀 **Key Features:**
 
-* Поиск по имени героя
-* Изучение информации героя
-* Бесконечная лента супергероев
-* Изучение комиксов, в которых появился супергерой
+* Search by hero name
+* Explore hero information
+* Endless feed of superheroes
+* Explore comics featuring a superhero
 
-**🛠️ Технологии**<br/>
+**🛠️ Technologies**<br/>
 
 - React
 - Marvel API
 
-**📒 Примечание**<br/>
+**📒 Note**<br/>
 
-Это веб-приложение создано с использованием React без хуков.
-Это веб-приложение содержит информацию о супергероях Marvel.
-Все получаемые данные поступают с сервера, что означает, что код является асинхронным.
-В этом веб-приложении используется API [API](https://developer.marvel.com/account).
-В компоненте MarvelService, в файле MarvelService, в строке 4 используется уникальный ключ API разработчика.
-Возможно, вам понадобится зарегистрировать свой профиль разработчика и заменить этот ключ API на свой.
+This web application was built using React without hooks.
+This web application contains information about Marvel superheroes.
+All data is fetched from the server, which means the code is asynchronous.
+This web application uses the [API](https://developer.marvel.com/account).
+In the MarvelService component, in the MarvelService file, on line 4, a unique developer API key is used.
+You may need to register your developer profile and replace this API key with your own.
 
-**📚 Инструкция**<br/>
+**📚 Instructions**<br/>
 
 
-Просто скопируйте и используйте эти команды для установки и запуска приложения.
+Just copy and use these commands to install and run the application.
 
 ```bash
 git clone -b master https://github.com/NazarSpokeOfk/Marvel
@@ -39,12 +39,12 @@ npm i
 npm start
 ```
 
-## 🪪 **Лицензия**
+## 🪪 **License**
 
-Лицензия MIT - не стесняйтесь изучать или использовать этот код на свой страх и риск.
+MIT License—feel free to study or use this code at your own risk.
 
 
-## **Автор**
+## **Author**
 
 **Spokeofk**
 
